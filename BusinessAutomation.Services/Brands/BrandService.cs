@@ -17,6 +17,17 @@ namespace BusinessAutomation.Services.Brands
         {
             this._brandRepository = brandRepository;
         }
+        public bool Add( entity)
+        {
+            //pre logic -- validation logic, or checking logic 
+
+            var isSuccess = _brandRepository.Add(entity);
+
+            //post processing
+
+
+            return isSuccess;
+        }
         public ICollection<Brand> GetAll()
         {
             return _brandRepository.GetAll();
@@ -24,6 +35,21 @@ namespace BusinessAutomation.Services.Brands
         public Brand GetById(int id)
         {
             return _brandRepository.GetById(id);
+        }
+        public bool Remove(Brand brand)
+        {
+            //pre logic 
+
+            bool isSuccess = _brandRepository.Remove(brand);
+
+            // post processing
+
+            return isSuccess;
+
+        }
+        public bool Update(Brand brand)
+        {
+            return _brandRepository.Update(brand);
         }
     }
 }
