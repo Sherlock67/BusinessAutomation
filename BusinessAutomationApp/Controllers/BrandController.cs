@@ -5,7 +5,7 @@ namespace BusinessAutomationApp.Controllers
 {
     public class BrandController : Controller
     {
-         IBrandService _brandService;
+        private readonly IBrandService _brandService;
         public BrandController(IBrandService brandService)
         {
             this._brandService = brandService;

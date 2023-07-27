@@ -17,7 +17,7 @@ namespace BusinessAutomation.Services.Brands
         {
             this._brandRepository = brandRepository;
         }
-        public bool Add( entity)
+        public bool Add(Brand entity)
         {
             //pre logic -- validation logic, or checking logic 
 

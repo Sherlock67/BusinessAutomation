@@ -1,5 +1,6 @@
 ﻿using BusinessAutomation.Database;
 using BusinessAutomation.Models.EntityModels;
+using BusinessAutomation.Repositories.Abstractions.Products;
 using BusinessAutomation.Repositories.Base;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace BusinessAutomation.Repositories
 {
-    public class CustomerRepository : BaseRepository<Customer>
+    public class CustomerRepository : BaseRepository<Customer>, ICustomerRepository
     {
         BusinessAutomationDbContext db;
         public CustomerRepository(BusinessAutomationDbContext db) : base(db)

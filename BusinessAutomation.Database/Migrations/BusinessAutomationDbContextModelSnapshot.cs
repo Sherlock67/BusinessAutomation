@@ -30,6 +30,10 @@ namespace BusinessAutomation.Database.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -101,15 +105,10 @@ namespace BusinessAutomation.Database.Migrations
             modelBuilder.Entity("BusinessAutomation.Models.EntityModels.Product", b =>
                 {
                     b.HasOne("BusinessAutomation.Models.EntityModels.Brand", "Brand")
-                        .WithMany("Products")
+                        .WithMany()
                         .HasForeignKey("BrandId");
 
                     b.Navigation("Brand");
-                });
-
-            modelBuilder.Entity("BusinessAutomation.Models.EntityModels.Brand", b =>
-                {
-                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }
