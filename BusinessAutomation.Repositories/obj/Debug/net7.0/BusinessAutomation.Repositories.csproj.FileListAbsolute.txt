@@ -1,0 +1,57 @@
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.deps.json
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.AssemblyReference.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.AssemblyInfoInputs.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.AssemblyInfo.cs
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.CoreCompileInputs.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.CopyComplete
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\refint\BusinessAutomation.Repositories.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\ref\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.deps.json
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.AssemblyReference.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.AssemblyInfoInputs.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.AssemblyInfo.cs
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.CoreCompileInputs.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.CopyComplete
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\refint\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\ref\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.AssemblyReference.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.AssemblyInfoInputs.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.AssemblyInfo.cs
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.CoreCompileInputs.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\refint\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.deps.json
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Services.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\bin\Debug\net7.0\BusinessAutomation.Services.Abstractions.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\BusinessAutomation.Repositories.csproj.CopyComplete
+E:\SM\BusinessAutomationApp\BusinessAutomation.Repositories\obj\Debug\net7.0\ref\BusinessAutomation.Repositories.dll

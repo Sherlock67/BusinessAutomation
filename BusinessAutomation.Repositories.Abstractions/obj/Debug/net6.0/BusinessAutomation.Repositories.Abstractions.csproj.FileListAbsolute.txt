@@ -1,0 +1,15 @@
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\bin\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.deps.json
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\bin\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\bin\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\bin\Debug\net6.0\BusinessAutomation.Models.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\bin\Debug\net6.0\BusinessAutomation.Models.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.AssemblyInfo.cs
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.csproj.CopyComplete
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\refint\BusinessAutomation.Repositories.Abstractions.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\BusinessAutomation.Repositories.Abstractions.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Repositories.Abstractions\obj\Debug\net6.0\ref\BusinessAutomation.Repositories.Abstractions.dll

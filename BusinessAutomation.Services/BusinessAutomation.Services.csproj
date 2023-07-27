@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessAutomation.Repositories.Abstractions\BusinessAutomation.Repositories.Abstractions.csproj" />
+    <ProjectReference Include="..\BusinessAutomation.Repositories\BusinessAutomation.Repositories.csproj" />
+    <ProjectReference Include="..\BusinessAutomation.Services.Abstractions\BusinessAutomation.Services.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

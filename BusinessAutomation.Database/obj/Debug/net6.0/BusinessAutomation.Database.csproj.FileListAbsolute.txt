@@ -1,0 +1,17 @@
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net6.0\BusinessAutomation.Database.deps.json
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net6.0\BusinessAutomation.Database.runtimeconfig.json
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net6.0\BusinessAutomation.Database.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net6.0\BusinessAutomation.Database.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net6.0\BusinessAutomation.Models.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net6.0\BusinessAutomation.Models.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.AssemblyInfo.cs
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.csproj.CopyComplete
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\refint\BusinessAutomation.Database.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\BusinessAutomation.Database.genruntimeconfig.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net6.0\ref\BusinessAutomation.Database.dll

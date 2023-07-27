@@ -1,0 +1,12 @@
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\bin\Debug\net6.0\BusinessAutomation.Models.deps.json
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\bin\Debug\net6.0\BusinessAutomation.Models.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\bin\Debug\net6.0\BusinessAutomation.Models.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\BusinessAutomation.Models.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\BusinessAutomation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\BusinessAutomation.Models.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\BusinessAutomation.Models.AssemblyInfo.cs
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\BusinessAutomation.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\BusinessAutomation.Models.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\refint\BusinessAutomation.Models.dll
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\BusinessAutomation.Models.pdb
+C:\Users\USER\Downloads\BusinessAutomationApp_Day20\BusinessAutomationApp\BusinessAutomation.Models\obj\Debug\net6.0\ref\BusinessAutomation.Models.dll

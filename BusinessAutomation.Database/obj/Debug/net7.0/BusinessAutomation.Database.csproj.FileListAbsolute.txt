@@ -1,0 +1,51 @@
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.deps.json
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.runtimeconfig.json
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.AssemblyReference.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.AssemblyInfoInputs.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.AssemblyInfo.cs
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.CoreCompileInputs.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.CopyComplete
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\refint\BusinessAutomation.Database.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.genruntimeconfig.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\ref\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.deps.json
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.runtimeconfig.json
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.AssemblyReference.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.AssemblyInfoInputs.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.AssemblyInfo.cs
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.CoreCompileInputs.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.CopyComplete
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\refint\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.genruntimeconfig.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\ref\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.deps.json
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.runtimeconfig.json
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.AssemblyReference.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.AssemblyInfoInputs.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.AssemblyInfo.cs
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.CoreCompileInputs.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.csproj.CopyComplete
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\refint\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\BusinessAutomation.Database.genruntimeconfig.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.Database\obj\Debug\net7.0\ref\BusinessAutomation.Database.dll

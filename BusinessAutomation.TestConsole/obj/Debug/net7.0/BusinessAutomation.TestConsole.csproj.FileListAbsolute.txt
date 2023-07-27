@@ -1,0 +1,226 @@
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.exe
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.deps.json
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.runtimeconfig.json
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Azure.Core.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Azure.Identity.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Memory.Data.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.AssemblyReference.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.AssemblyInfoInputs.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.AssemblyInfo.cs
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.CoreCompileInputs.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.CopyComplete
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\refint\BusinessAutomation.TestConsole.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.genruntimeconfig.cache
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\ref\BusinessAutomation.TestConsole.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Castle.Core.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\SM\Full Stack ASP.NET Core 10\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.AssemblyReference.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.AssemblyInfoInputs.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.AssemblyInfo.cs
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.CoreCompileInputs.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\refint\BusinessAutomation.TestConsole.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.exe
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.deps.json
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.runtimeconfig.json
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Azure.Core.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Azure.Identity.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Castle.Core.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Memory.Data.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.pdb
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.CopyComplete
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.genruntimeconfig.cache
+E:\SM\BusinessAutomationApp_Day18\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\ref\BusinessAutomation.TestConsole.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.exe
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.deps.json
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.runtimeconfig.json
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.TestConsole.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Azure.Core.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Azure.Identity.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Castle.Core.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Memory.Data.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Database.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Models.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Database.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Models.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\bin\Debug\net7.0\BusinessAutomation.Repositories.Abstractions.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.AssemblyReference.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.AssemblyInfoInputs.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.AssemblyInfo.cs
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.CoreCompileInputs.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.csproj.CopyComplete
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\refint\BusinessAutomation.TestConsole.dll
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.pdb
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\BusinessAutomation.TestConsole.genruntimeconfig.cache
+E:\SM\BusinessAutomationApp\BusinessAutomation.TestConsole\obj\Debug\net7.0\ref\BusinessAutomation.TestConsole.dll
